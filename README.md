@@ -1,5 +1,4 @@
-# style-transfer-deeplearn-41236654-Aditiya-AF
-tugas deeplearn lanjut.neurall style transfer
+# style-transfer-deeplearn-41236654-Aditiya-A
 # ==============================================================================
 # TUGAS INDIVIDU: IMPLEMENTASI Natural STYLE TRANSFER (NST)
 # Model ini menggabungkan konten dari 'images.jpg' dengan gaya dari 'images.png'
